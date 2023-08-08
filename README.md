@@ -1,2 +1,2 @@
-# curso
-Repositorio de prueba
+# Prueba
+Prueba de envio a repositorio
